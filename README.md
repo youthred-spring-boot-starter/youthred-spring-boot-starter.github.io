@@ -1,0 +1,1 @@
+- [security-lite](https://github.com/youthred-spring-boot-starter/security-lite) 轻量级接口拦截权限校验
